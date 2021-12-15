@@ -1,0 +1,1 @@
+Script to create completion time plots for Advent of Code.
